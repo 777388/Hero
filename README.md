@@ -2,4 +2,4 @@
 
 (Targeted Systems | Blind User) => (WorkforceManagement.py | CancelCulture.py)
 
-Exceptional Job!
+"Exceptional Job!"
